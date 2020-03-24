@@ -1,0 +1,9 @@
+h1 { font-size: 50pt;border: 1px solid black; text align: center;}
+
+img {border: 17px dashed black; border-radius:30%;}
+
+body {background-image: url('angel2.png')}
+
+ul {font-size: 45pt; color: white; text-decoration:underline;}
+
+li {font-family: Verdana,Garamond; font-size:27pt; color:black; border: 5px dashed teal;}
